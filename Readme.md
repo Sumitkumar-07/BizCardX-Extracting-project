@@ -37,7 +37,7 @@
 
    - Install the required libraries using the pip install command. Streamlit, mysql.connector, pandas, easyocr.
 
-# Usage
+# Usage & Pages
   ## Home
    - The Home section provides an introduction to the application and its purpose. It also includes a visual representation of the application.
   ## Upload & Extract
